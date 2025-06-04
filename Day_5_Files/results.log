@@ -1,0 +1,4 @@
+test1: PASS
+test2: FAIL
+test3: PASS
+test4: FAIL
